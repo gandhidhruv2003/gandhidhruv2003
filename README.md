@@ -3,7 +3,7 @@
 
 - 🔭 **I am working as an R&D intern at Sonetel building an AI system to assist the customer service team in streamlining and automating the approval process for virtual phone numbers with fraudulent entry detection mechanisms.**
 
-- 🌱 **Actively exploring DevOps and MLOps.**
+- 🌱 **Actively exploring DevOps.**
 
 - 👯 **I am looking to collaborate with other AI Engineers, Data Scientists, Machine Learning Engineers, and MLOps Engineers to enhance my knowledge about building effective AI systems.**
 
