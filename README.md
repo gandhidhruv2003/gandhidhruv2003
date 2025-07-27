@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gandhidhruv2003&label=Profile%20views&color=0e75b6&style=flat" alt="gandhidhruv2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gandhidhruv2003" alt="gandhidhruv2003" /></a> </p>
-
 - 🔭 **I am working as an R&D intern building an AI system to assist the customer service team in streamlining and automating the approval process for virtual phone numbers with fraudulent entry detection mechanisms.**
 
-- 🌱 **Actively exploring DevOps and MLOps.**
+- 🌱 **Actively exploring DevOps, MLOps and LLMOps.**
 
 - 👯 **I am looking to collaborate with other AI Engineers, Data Scientists, Machine Learning Engineers, and MLOps Engineers to enhance my knowledge about building effective AI systems.**
 
