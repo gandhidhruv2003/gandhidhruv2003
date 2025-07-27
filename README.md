@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Gandhi</h1>
+<h1 align="center">Hi, I'm Dhruv👋</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 - 🔭 **I am working as an R&D intern building an AI system to assist the customer service team in streamlining and automating the approval process for virtual phone numbers with fraudulent entry detection mechanisms.**
