@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gandhi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gandhidhruv2003&label=Profile%20views&color=0e75b6&style=flat" alt="gandhidhruv2003" /> </p>
-
 - 🔭 **I am working as an R&D intern building an AI system to assist the customer service team in streamlining and automating the approval process for virtual phone numbers with fraudulent entry detection mechanisms.**
 
 - 🌱 **Actively exploring DevOps, MLOps and LLMOps.**
@@ -28,6 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gandhidhruv2003&show_icons=true&locale=en&layout=compact" alt="gandhidhruv2003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gandhidhruv2003&show_icons=true&locale=en" alt="gandhidhruv2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gandhidhruv2003&" alt="gandhidhruv2003" /></p>
